@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569077028 source:e:\informatik\software\c++\randomgenerator_c++\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
